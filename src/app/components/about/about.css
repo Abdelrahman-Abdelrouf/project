@@ -1,0 +1,9 @@
+section.about {
+  background-color: #1abc9c;
+}
+
+.line {
+  height: 5px;
+  width: 100px;
+  background-color: #fff;
+}
